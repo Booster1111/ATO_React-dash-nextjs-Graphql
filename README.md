@@ -4,9 +4,6 @@
 
 A React.js, Next.js, GraphQL, TypeScript powered dashboard template. Highly optimized for your next react application.
 
-#### Demo Link: https://inst.redq.now.sh/
-
-#### Support Link: https://redqsupport.ticksy.com/
 
 <br>
 
@@ -23,11 +20,6 @@ A React.js, Next.js, GraphQL, TypeScript powered dashboard template. Highly opti
 
 <br>
 
-# Getting Started
-
-After downloading the file from Themeforest, You will find inst.zip file. Unzip the inst.zip and Follow the Installation guideline from below section.
-
-<br>
 
 ## Installation
 
@@ -206,5 +198,7 @@ $ cd frontend/
 $ vercel
 
 ```
+# Screenshot
+![inst-react-admin-template-with-graphql](https://user-images.githubusercontent.com/89033750/162812410-75ff0f2d-3abb-4293-a835-00045649c1cb.png)
 
-> **Make sure you have `vercel-cli` installed in your system.**
+
