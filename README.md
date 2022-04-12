@@ -167,6 +167,8 @@ All of these containers contains regular reactjs code.
 We have provided now.sh deployment support by default. Follow below below instruction.
 
 # Screenshot
-![inst-react-admin-template-with-graphql](https://user-images.githubusercontent.com/89033750/162812410-75ff0f2d-3abb-4293-a835-00045649c1cb.png)
+
+
+![Graphql](https://user-images.githubusercontent.com/89033750/163064332-075b184e-ac7c-4af8-9ad6-cd6659b874f5.png)
 
 
