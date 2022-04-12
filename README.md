@@ -1,6 +1,6 @@
 # Introduction
 
-### Inst - React Minimalist GraphQL Dashboard
+### Inst - React GraphQL Dashboard
 
 A React.js, Next.js, GraphQL, TypeScript powered dashboard template. Highly optimized for your next react application.
 
@@ -162,42 +162,10 @@ All of these containers contains regular reactjs code.
 
 <br/>
 
-# Customization
-
-Just like any standard React project, you can customize this template by checking the codebase.
-
-Just go to the `/pages` directory for the feature you want to change or copy and from there follow the `import` you will get what you needed to change.
-
-BaseUI has been used as UI Library for this template. So, for component, theme, color related customization check the BaseUI documentation directly from here https://v9-50-0.baseweb.design/ also check our UI elements props from here https://inst.redq.now.sh/uielements
-
-<br/>
-
 # Deployment
 
 We have provided now.sh deployment support by default. Follow below below instruction.
 
-## [vercel.com](https://vercel.com)
-
-We have given `vercel` deployment by default. For hosting the project in [vercel.com](https://vercel.com).
-
-1.  Add your production credentials on `vercel.json`
-2.  first you have to go `api` folder and run `vercel`
-
-```
-$ cd api/
-$ vercel
-
-```
-
-3.  After deploying api you will get a url from vercel. You have to put that url in the `/frontend/vercel.json` `APOLLO_CLIENT_URL`.
-
-4.  Now go to `frontend` folder and run `vercel`
-
-```
-$ cd frontend/
-$ vercel
-
-```
 # Screenshot
 ![inst-react-admin-template-with-graphql](https://user-images.githubusercontent.com/89033750/162812410-75ff0f2d-3abb-4293-a835-00045649c1cb.png)
 
