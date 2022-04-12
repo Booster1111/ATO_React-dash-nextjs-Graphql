@@ -1,8 +1,8 @@
 # Introduction
 
-### Inst - React GraphQL Dashboard
+### React GraphQL Dashboard
 
-A React.js, Next.js, GraphQL, TypeScript powered dashboard template. Highly optimized for your next react application.
+A React.js, Next.js, GraphQL, TypeScript powered dashboard. Highly optimized for your next react application.
 
 
 <br>
